@@ -2,10 +2,10 @@
 title: Anexos
 layout: home
 ---
-# Programa de Trabajo
+# Programa de Trabajo actualizado
 | Acción/Actividad| Unidad de Medida | Meta Programada anual | Realizado anual | % de Avance Anual |
 | -- | -- | -- | -- | -- |
-| MAPEO |  |  |  |  |			
+| MAPEO |  |  |    |  |			
 | MAPEO | HECTÁREAS | 50.00 | 924.00 | 1,847.99 |
 | MONITOREO |  |  |  |  |
 | MONITOREO | SITIO | 171 | 184 | 107.60 |
